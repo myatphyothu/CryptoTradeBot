@@ -1,7 +1,7 @@
 
 
-API_KEY = 'dE36nvgjtisMFDidIjD6MOmiepeSCUhKWHi7yOfOtTdT0uAwvgisHJhK0zqpJIXo'
-API_SECRET = 'yYgdaCUWWxdERfwMaozw6lUKJtSm5aQxx4Af7jRTAqS6zUp5FSgprgb0o80DJoTh'
+API_KEY = 'binance API key'
+API_SECRET = 'binance API secret'
 
 
 
